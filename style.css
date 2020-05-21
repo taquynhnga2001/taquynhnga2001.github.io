@@ -1,7 +1,22 @@
-h1{
-    color:deeppink;
-    background-color: lightskyblue;
+
+body{
+    background-color:#fff0fe;
 }
+header{
+    text-align:center;
+    background-color:deeppink;
+}
+h1{
+    color:#2245c3;
+    font-family:arial;
+    text-align:center;
+    line-height:150%;
+}
+
 h2{
     color:deeppink;
+    font-family:arial;
+}
+footer{
+    background-color:pink;
 }
