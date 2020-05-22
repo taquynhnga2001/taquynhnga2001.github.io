@@ -1,22 +1,39 @@
 
 body{
-    background-color:#fff0fe;
+    background-color: #8effdd;
+    margin: 10px;
 }
 header{
     text-align:center;
-    background-color:deeppink;
+    background-color: #00ac9d;
+    padding-bottom: 10px;
+}
+nav a{
+    box-sizing: border-box;
+    display: inline-block;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    text-decoration: none;
+    width: 20%;
+    padding: 20px;
+    margin-right: 2%;
+    color: #00414c;
+    font-family: arial;
 }
 h1{
-    color:#2245c3;
+    color: #00414c;
     font-family:arial;
     text-align:center;
     line-height:150%;
 }
 
 h2{
-    color:deeppink;
+    color: #00414c;
     font-family:arial;
 }
 footer{
-    background-color:pink;
+    background-color: #00ac9d;
+}
+img{
+    width: 5%;
 }
